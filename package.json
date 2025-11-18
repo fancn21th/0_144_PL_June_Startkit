@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@pattern-lab/cli": "^5.10.1",
-    "@pattern-lab/core": "^5.10.1",
+    "@pattern-lab/core": "^5.17.0",
     "@pattern-lab/engine-handlebars": "^5.10.1",
     "@pattern-lab/starterkit-handlebars-vanilla": "^1.4.0",
     "@pattern-lab/uikit-workshop": "^5.10.2"
